@@ -10,7 +10,7 @@
   "dependencies": {
     "@hapi/boom": "^7.4.2",
     "cookie-parser": "~1.4.3",
-    "debug": "~2.6.9",
+    "debug": "~3.1.0",
     "express": "~4.16.0",
     "express-promise-router": "^3.0.3",
     "lodash": "^4.17.19",
